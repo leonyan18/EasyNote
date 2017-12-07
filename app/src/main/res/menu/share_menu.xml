@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/txt"
+        android:title="以文字形式分享" />
+    <item
+        android:id="@+id/png"
+        android:title="以图片形式分享" />
+</menu>
