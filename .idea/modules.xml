@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EasyNote.iml" filepath="$PROJECT_DIR$/EasyNote.iml" />
+      <module fileurl="file://C:\Users\yan\Documents\GitHub\EasyNote\EasyNote.iml" filepath="C:\Users\yan\Documents\GitHub\EasyNote\EasyNote.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\yan\Documents\GitHub\EasyNote\app\app.iml" filepath="C:\Users\yan\Documents\GitHub\EasyNote\app\app.iml" />
     </modules>
   </component>
 </project>
